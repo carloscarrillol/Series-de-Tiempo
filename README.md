@@ -1,2 +1,3 @@
 # Series-de-Tiempo
-Para ver el código ejecutado puedes verlo en ### https://rpubs.com/CarlosCarrillol/1091190
+Puedes ver el código ejecutado en
+#### https://rpubs.com/CarlosCarrillol/1091190
